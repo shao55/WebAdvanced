@@ -10,11 +10,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.21"
-  }
+  "license": "ISC"
 }
